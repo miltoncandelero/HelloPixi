@@ -37,7 +37,7 @@ Finally, try `yarn run lint` to make your code look prettier.
 
 ---
 
-*I tried to leave comments in every configuration files to give you some insight inside my mad programmer head. Don't be afraid to poke arround the configuration files*
+*I tried to leave comments in every configuration file to shed some insight about my mad programmer head. Don't be afraid to poke around the configuration files*
 
 ## Recommended VSCode extensions:
 - ESLint *(to have VSCode tell you how ugly your code is)*
@@ -50,6 +50,7 @@ Finally, try `yarn run lint` to make your code look prettier.
 
 ## Things I considered but ultimately left out
 - Tweens (tween.js)
+- Webfont Loader (webfontloader)
 - Pixi-Sound (pixi-sound)
 - Atlas Packer (free-tex-packer)
 - Code Minifer / Uglifier (terser-webpack)
