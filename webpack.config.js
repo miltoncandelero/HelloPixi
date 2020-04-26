@@ -8,6 +8,7 @@ module.exports = {
   entry: './src/index.ts',
   mode: 'development',
   devtool: 'inline-source-map',
+  module: { rules: [{ test: /\.tsx?$/, use: 'ts-loader', exclude: /node_modules/ }] },
   output: { path: buildPath },
   devServer: { contentBase: 'build', port: 3000, hot: true },
   resolve: { extensions: ['.ts', '.js'] },
