@@ -1,3 +1,7 @@
+# This is no longer being updated. Please look into pixi-hotwire! https://github.com/miltoncandelero/pixi-hotwire
+
+---
+
 # Hello Pixi
 *(Yet another PixiJS + Typescript + Webpack boilerplate)*
 
